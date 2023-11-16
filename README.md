@@ -20,4 +20,4 @@ Node.jsをインストールします。
 ※パスが通っていない場合はパスも通してください
 ## Botを起動
 Macユーザー、Linuxユーザーは`run.sh`、Windowsユーザーは`run.bat`を実行して起動してください。
-起動できない場合は直接コマンドラインに`npm install`と入力してから`npm run up`と入力してください
+起動できない場合は直接コマンドラインに`npm install`と入力してから`npm run start`と入力してください
