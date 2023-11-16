@@ -1,0 +1,25 @@
+{
+  "name": "discord_nuker",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "glob": "7.2.3"
+  },
+  "devDependencies": {
+    "@types/glob": "^8.1.0",
+    "@types/node": "^20.9.0",
+    "eslint": "^8.53.0",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  }
+}
