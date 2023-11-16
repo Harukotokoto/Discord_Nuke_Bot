@@ -13,8 +13,8 @@
 
 ## Node.jsをインストール
 Node.jsをインストールします。
-[直接ダウンロード](https://nodejs.org/dist/v20.9.0/node-v20.9.0-x64.msi)
-[公式サイト](https://nodejs.org/en)
+- [直接ダウンロード](https://nodejs.org/dist/v20.9.0/node-v20.9.0-x64.msi)
+- [公式サイト](https://nodejs.org/en)
 
 ※パスが通っていない場合はパスも通してください
 ## Botを起動
